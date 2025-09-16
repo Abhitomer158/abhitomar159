@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: rgb(20, 20, 20);
+}
+#box1{
+    height: 60px;
+    background-color: rgba(110, 81, 18, 0.774);
+    color: rgb(237, 237, 240);
+    text-transform: capitalize;
+    position: sticky;
+}
+
+#box2{
+    font-size: 50px;
+    margin-left: 50px;
+    color: yellow;
+}
+
+a{ color: aliceblue;
+    margin-left: 300px;
+    text-decoration: none;}
+    
+input{
+    margin-left: 50px;
+}button{
+    color: rgb(10, 10, 9);
+    background-color: yellow;
+    width: 50px;
+    height: 20px;
+
+}
+#box3 a{
+    font-size: 50px;
+    width: 250px;
+    height: 80px;
+    background-color: rgb(107, 107, 63);
+    border: 2px solid  rgb(36, 9, 100);
+    display: inline-block;
+    border-radius: 50px;
+position: absolute;
+margin-top: 200px;
+margin-left: 100px;
+padding-left: 20px;
+
+}
+#box4{
+    text-align: end;
+    background-color: black;
+
+}
+h4{
+    color: yellowgreen;
+}
+#box5{
+    font-size: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    text-align: center;
+
+}
+footer h3{
+    background-color: black;
+    padding-left: 800px;
+    color: rgb(227, 227, 233);
+}
+#box6{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    padding-left: 400px;
+    position:;
+
+}
+#box7{
+     width: 100px;
+    height: 100px;
+    display: inline-block;
+    padding-left: 400px;
+    position:400px;
+
+}
+#box8{
+    width: 250px;
+    height: 200px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    border: 3px solid rgb(15, 114, 64);
+    background-color: black;
+    margin-left: 700px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 0%;
+    padding-bottom: 30px;
+    
+
+
+}    
+#one{
+    text-align: center;
+    margin-left: 10px;
+}
+#two p{
+color: rgb(238, 228, 228);
+font-size: 20px;
+width: 250px;
+height: 80px;
+display: inline-block;
+position: absolute;
+margin-top: 300px;
+margin-left: 100px;
+}
+#three h2{
+    color: white;
+    padding-left:50px;
+    
+}
